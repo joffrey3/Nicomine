@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3bba4e06110c3f343a82df61dbe41cb7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlockSprite: {fileID: 21300000, guid: cd14bf7c5076751499ddd1b4086d844a, type: 3}
+  - HiddenSprite: {fileID: 21300000, guid: cd14bf7c5076751499ddd1b4086d844a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
